@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Ziheng Lin** is an undergraduate student at theCollege of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu,China. His research interest focuses on federated learning and knowledge distillation.
+**Ziheng Lin** is an undergraduate student at the College of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing,  Jiangsu, China. His research interest focuses on federated learning and knowledge distillation.
 
 **Affiliated Institution**：College of Computer Science, Nanjing University of Posts and Telecommunications  
 **Email**：b23042016@njupt.edu.cn
